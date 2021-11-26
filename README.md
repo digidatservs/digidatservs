@@ -1,15 +1,20 @@
-### Welcome 🔆
+### Welcome, my page!!! 🔆
 
-<!--
-**digidatservs/digidatservs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Objetives ✨ 
 
-✅ HTML / CSS / JavaScript / 
-🚧 React / ReactNative 
 👩‍🎓 I´m currently actually ♻️ my knowndlege about programming languages ...
-   Contacts:
+👷‍♀️ This page presents some of the projects, so that I can 🎥 show my skills and also be able to 🤝 collaborate and have the collaboration of other members.
+
+Hard Skills:
+✅ HTML / CSS / JavaScript  
+
+Soft Skills:
+🚧 React / ReactNative 
+
+Contacts:
 📧 digidat.contact@gmail.com
 🔗 https://www.linkedin.com/in/michele-duarte-a013569/
+
 🙋‍♀️Pronouns: ela/dela
 
 
--->
