@@ -9,14 +9,14 @@
 
 Hard Skills:
 ✅ HTML / CSS / JavaScript  
-
-[Link](https://www.linkedin.com/in/michele-duarte-a013569/)
-(![](https://img.shields.io/static/v1?message=<LinkedIn&color=<COLOR>/LindedIn-58a6ff)](#https://www.linkedin.com/in/michele-duarte-a013569/)
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[MY LINKEDIN](https://www.linkedin.com/in/michele-duarte-a013569/)
+[MY E-MAIL](digidat.contact@gmail.com)
 
 
 Contacts:
 📧 digidat.contact@gmail.com
-🔗 https://www.linkedin.com/in/michele-duarte-a013569/
+
 
 🙋‍♀️Pronouns: ela/dela
 
