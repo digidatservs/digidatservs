@@ -32,10 +32,6 @@ Contacts:
 ## ⭐ GitHub Stats
 
 <div align="center">
-![Michele Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=digidatservs&theme=tokyonight_icons=true)
-</div>
-
-<div align="center">
   <a href="https://github.com/digidatservs">
   <img height="300px" src="https://githubreadmestats.vercel.app/apiusername=digidatservsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digidatservs&layout=compact&langs_count=7&theme=tokyonight"/>
