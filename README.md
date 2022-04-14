@@ -1,59 +1,46 @@
-# Welcome, my page!!! 🔆
+# Welcome, Michele Duarte´s page!!! 🎆
+<img align='right' src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300px" height="300px">
 
-<p align="center">
-✨ ## Objetives ✨ 
-</p>
+## ✨ Objetives ✨                                                  
 
-👩‍🎓 I´m currently actually ♻️ my knowndlege about programming languages ...
-👷‍♀️ This page presents some of the projects, so that I can 🎥 show my skills and also be able to 🤝 collaborate and have the collaboration of other members.
+### ➡️ Programming Languages ###
+### ➡️ Web Design Responsive ###
+### ➡️ Clear Code ###
+### ➡️ Privacity and Security Web ###
+### ➡️ Database ###
 
-Hard Skills:
-✅ HTML / CSS / JavaScript  
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-[MY LINKEDIN](https://www.linkedin.com/in/michele-duarte-a013569/)
-[MY E-MAIL](digidat.contact@gmail.com)
-
-
-Contacts:
-📧 digidat.contact@gmail.com
-
-
-🙋‍♀️Pronouns: ela/dela
-
-
-<p align="center">
-  🚀  Learning: <strong> </strong>
-</p>
-
-<p align="center">
-  💌 Text me: ⤵️
-</p>
+----
+  
 
 ## ⭐ GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/digidatservs">
-  <img height="300px" src="https://githubreadmestats.vercel.app/apiusername=digidatservsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digidatservs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="logo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+![Michele Duarte´s GitHub stats](https://github-readme-stats.vercel.app/api?username=digidatservs&theme=algolia&show_icons=true)
 
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digidatservs&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  
+  
 ## 💻 Technologies & Tools
 
-<p align="center">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white height="25"/>
-</p>
+  <div style="display: inline_block"><br>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  </div><br>
 
-                                                                                                                     
+
+![](https://img.shields.io/badge/Made%20with-MARKDOWN-orange?style=for-the-badge&logo=Markdown)
+
+---------
+
+## ↗️ Contacts: ##
+
+
+<a href="https://www.linkedin.com/in/michele-duarte-a013569/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:digidat.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+                                                                                                               
   
-
-
-
-
-
